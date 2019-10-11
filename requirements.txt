@@ -1,0 +1,9 @@
+requests==2.22.0
+lxml==4.4.1
+google==2.0.2
+beautifulsoup4==4.8.0
+wikipedia
+git+https://github.com/shwetagargade216/ChatterBot
+Flask>=1.0.0
+chatterbot-corpus>=1.2.0
+SQLAlchemy>=1.2
